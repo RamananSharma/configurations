@@ -1,0 +1,61 @@
+{
+  "bold_folder_labels": true,
+  "caret-style": "solid",
+  "caret_extra_bottom": 3,
+  "caret_extra_width": 2,
+  "color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
+  "detect_indentation": true,
+  "draw_indent_guides": true,
+  "enable_tab_scrolling": false,
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    ".DS_Store"
+  ],
+  "folder_exclude_patterns":
+  [
+    "bin",
+    ".bundle",
+    ".git",
+    ".sass-cache",
+    ".idea",
+    "tmp"
+  ],
+  "font_face": "InputMonoNarrow Light",
+  "font_size": 13,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "match_brackets": false,
+  "match_brackets_angle": true,
+  "match_brackets_braces": true,
+  "match_brackets_content": true,
+  "match_brackets_square": true,
+  "new_window_settings":
+  {
+    "hide_open_files": true,
+    "show_minimap": true,
+    "show_tabs": true,
+    "side_bar_visible": true,
+    "status_bar_visible": true
+  },
+  "remember_open_files": true,
+  "remember_open_folders": true,
+  "sidebar_row_padding_small": true,
+  "tab_size": 2,
+  "theme": "Default.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true,
+  "use_simple_full_screen": true,
+  "vintage_start_in_command_mode": true,
+  "wide-caret": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#$%^&#038;*|+=[]{}`~?",
+  "word_wrap": true,
+  "wrap_width": 100
+}
